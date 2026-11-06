@@ -1,0 +1,1 @@
+{"name":"creator-hostname-cutover","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node src/creator_delivery.ts","test":"node --test test/cutover.test.ts","demo":"node src/cutover_demo.ts","typecheck":"tsc --noEmit"},"dependencies":{"zod":"^3.24.2"},"devDependencies":{"@types/node":"^22.10.0","typescript":"^5.7.3"},"engines":{"node":">=22.18"}}
